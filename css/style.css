@@ -1,0 +1,34 @@
+h1 {
+	color: blue;
+}
+
+.big-blue {
+	background-color: #0924BA;
+	color: white;
+	display: flex;
+	padding-right: 0;
+}
+
+img.arm {
+	width: 100%;
+}
+div.left {
+	padding: 10%;
+}
+div.left > h2 {
+	font-family: 'Merriweather', serif;
+	font-size: 40px;
+}
+.card {
+	margin: 5px;
+}
+div > h2 {
+	font-family: 'Merriweather', serif;
+	size: 40px;
+
+
+}
+div > h4 {
+	size: 40px;
+	padding-top: 60px;
+}
